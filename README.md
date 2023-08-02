@@ -1,3 +1,6 @@
+# DEPREDCATED
+The TestCafe team no longer maintains the `json-hammerhead` repository.
+
 # Hammerhead-Tailored JSON Implementation
  
 This is a JSON implementation used in [TestCafe Hammerhead](https://github.com/DevExpress/testcafe-hammerhead) web proxy's client code.
